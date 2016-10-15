@@ -1,6 +1,10 @@
 {
   "name": "screenwriter",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:xiaoxinghu/screenwriter.git"
+  },
   "description": "a testing framework build with screenplay pattern",
   "main": "index.js",
   "scripts": {
