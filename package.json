@@ -1,0 +1,11 @@
+{
+  "name": "screenwriter",
+  "version": "0.1.0",
+  "description": "a testing framework build with screenplay pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xiaoxing Hu <dawnstar.hu@gmail.com>",
+  "license": "MIT"
+}
